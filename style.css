@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.8rem;
+    color: #666;
+    height: 100%;
+}
+
+.container {
+    background: url(bg1.jpg) no-repeat;
+    height: 1000px;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(120%) contrast(70%);
+}
+
+.clarusway-header {
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    padding-top: 400px;
+    filter: brightness(120%) contrast(70%);
+}
+
+.clarusway-header-container {
+    background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    text-transform: uppercase;
+    line-height: 5rem;
+}
+
+.section-light {
+    text-align: center;
+    padding: 3rem 5rem;
+    background-color: rgb(241, 241, 241);
+    color: #666;
+}
+
+.section-dark {
+    text-align: center;
+    padding: 3rem 5rem;
+    background-color: #282e34;
+    color: white;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.logo-container {
+    background: url(bg2.jpg) no-repeat;
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(120%) contrast(70%);
+}
+
+.clarusway-logo {
+    height: 100px;
+    width: 500px;
+    display: block;
+    margin: auto;
+    padding-top: 350px;
+}
+
+.WTR-container {
+    background: url(bg3.jpg) no-repeat;
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(120%) contrast(70%);
+}
+
+.WTR-header {
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    padding-top: 350px;
+    filter: brightness(120%) contrast(70%);
+}
+
+.WTR-header-container {
+    background-color: black;
+    padding: 0.7rem;
+    border-top-left-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    outline: 0.4rem inset purple;
+    outline-offset: 0.2rem;
+    line-height: 5rem;
+}
+
+.team-container {
+    background: url(bg4.jpg) no-repeat;
+    height: 800px;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(120%) contrast(70%);
+}
+
+.team-header {
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    padding-top: 350px;
+    filter: brightness(120%) contrast(70%);
+}
+
+.team-header-container {
+    background-color: black;
+    padding: 0.7rem;
+    border-top-left-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    outline: 0.4rem inset purple;
+    outline-offset: 0.2rem;
+    line-height: 5rem;
+}
+
+.CYF-container {
+    background: url(bg1.jpg) no-repeat;
+    height: 800px;
+    background-size: 100%;
+    background-attachment: fixed;
+    filter: brightness(120%) contrast(70%);
+}
+
+.CYF-header {
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: white;
+    padding-top: 350px;
+    filter: brightness(120%) contrast(70%);
+}
+
+.CYF-header-container {
+    background-color: black;
+    padding: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    outline: 0.5rem inset purple;
+    outline-offset: 1rem;
+    text-transform: uppercase;
+    line-height: 5rem;
+}
